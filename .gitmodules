@@ -1,0 +1,9 @@
+[submodule "beacon-llm"]
+	path = beacon-llm
+	url = https://github.com/devostafa/Beacon-llm.git
+[submodule "beacon-frontend"]
+	path = beacon-frontend
+	url = https://github.com/devostafa/Beacon-frontend.git
+[submodule "beacon-backend"]
+	path = beacon-backend
+	url = https://github.com/devostafa/Beacon-backend.git
